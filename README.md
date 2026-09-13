@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>문제 정의부터 배포까지, AI로 A–Z를 완주합니다</b><br/>
-  <sub>울산대학교 IT융합학과 · 2026년 12월 졸업예정 · 울산</sub>
+  <sub>울산대학교 IT융합학과 · 2027년 2월 졸업예정 · 울산</sub>
 </p>
 
 <p align="center">
